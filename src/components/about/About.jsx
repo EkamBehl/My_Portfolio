@@ -26,7 +26,7 @@ const About = () => {
               </article>
              
               
-              </article>
+              
               <article className='about__card'>
                 <BsFolderFill className='about__icon'/>
                 <h5>Projects</h5>
