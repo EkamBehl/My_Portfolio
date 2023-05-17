@@ -34,6 +34,17 @@ const Portfolio = () => {
       <h5>My Work</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
+      <article className='portfolio__item'>
+            <div className='portfolio__item-image'>
+              <img src={img1} alt='folio' />
+            </div>
+            <h3> Robot Controller Api</h3>
+            <div className="portfolio__item-cta">
+              <a href='https://github.com/EkamBehl/robot-controller-api' className='btn' target='_blank'> Github</a>
+
+            </div>
+
+          </article>
       {data.map(({id,image,title,github,demo})=>{
         return(
           <article key={id} className='portfolio__item'>
