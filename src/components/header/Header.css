@@ -44,7 +44,7 @@ header{
 }
 @media screen and (max-width: 1024px) {
     header{
-        max-height:68vh;
+        height:68vh;
     }
     
 }
@@ -61,8 +61,8 @@ header{
       
   
     }
-    .me{
-       max-height:100vh;
+    header{
+        height:100vh;
        }
 
     
