@@ -33,8 +33,8 @@ const About = () => {
                 <small>10+ projects</small>
               </article>
             </div>
-            <p>A recent Computer Science graduate from Deakin University looking for a graduate full stack developer role.<br/>
-Hobbies include playing competitive chess and going camping. COMPLETE IT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+            <p>Hi, I am Ekam Singh Behl, a passionate full stack developer based in Melbourne,Australia.<br/> I Like to build websites, android apps and games. <br/>
+When not working on my projects, I like to play competitive chess, watch anime and go stargazing with my telescope. </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             
             
