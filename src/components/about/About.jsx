@@ -24,11 +24,7 @@ const About = () => {
                 <h5>Experience</h5>
                 <small>1+ Years Working</small>
               </article>
-              
-              <article className='about__card'>
-                <FiUsers className='about__icon'/>
-                <h5>Clients</h5>
-                <small>Change num of Clients</small>
+             
               
               </article>
               <article className='about__card'>
@@ -37,7 +33,7 @@ const About = () => {
                 <small>10+ projects</small>
               </article>
             </div>
-            <p>A recent Computer Science graduate from Deakin University looking for a graduate full stack developer role.
+            <p>A recent Computer Science graduate from Deakin University looking for a graduate full stack developer role.<br>
 Hobbies include playing competitive chess and going camping. COMPLETE IT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             
