@@ -33,7 +33,7 @@ const About = () => {
                 <small>10+ projects</small>
               </article>
             </div>
-            <p>A recent Computer Science graduate from Deakin University looking for a graduate full stack developer role.<br>
+            <p>A recent Computer Science graduate from Deakin University looking for a graduate full stack developer role.<br/>
 Hobbies include playing competitive chess and going camping. COMPLETE IT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
             
