@@ -23,7 +23,7 @@ const Experience = () => {
               <HiBadgeCheck className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Beginner</small>
 
               </div>
               
@@ -32,7 +32,7 @@ const Experience = () => {
               <HiBadgeCheck className='experience__details-icon'/>
               <div>
                 <h4>Javascript</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Advanced</small>
 
               </div>
               
@@ -57,7 +57,7 @@ const Experience = () => {
               <HiBadgeCheck className='experience__details-icon'/>
               <div>
                 <h4>Node.js</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Beginner</small>
 
               </div>
               
@@ -66,7 +66,7 @@ const Experience = () => {
               <HiBadgeCheck className='experience__details-icon'/>
               <div>
                 <h4>Asp.net Core</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Advanced</small>
 
               </div>
               
