@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Portfolio.css"
 import img1 from "../../Assets/portfolio1.jpg"
+import img2 from "../../Assets/api.jpg"
 
 const data=[
   {
@@ -17,13 +18,7 @@ const data=[
     github:'https://github.com',
     demo:'https://github.com'
   },
-  {
-    id:3,
-    image:img1,
-    title:'title',
-    github:'https://github.com',
-    demo:'https://github.com'
-  }
+  
   
 
 ]
@@ -36,9 +31,10 @@ const Portfolio = () => {
       <div className="container portfolio__container">
       <article className='portfolio__item'>
             <div className='portfolio__item-image'>
-              <img src={img1} alt='folio' />
+              <img src={img2} alt='folio' />
             </div>
             <h3> Robot Controller Api</h3>
+            <h5>Asp.net Core | Postman | Swagger </h5>
             <div className="portfolio__item-cta">
               <a href='https://github.com/EkamBehl/robot-controller-api' className='btn' target='_blank'> Github</a>
 
