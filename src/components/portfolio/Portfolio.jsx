@@ -14,9 +14,9 @@ const data=[
   {
     id:2,
     image:img1,
-    title:'title',
+    title:'E-commerce-admin',
     github:'https://github.com',
-    demo:'https://github.com'
+    demo:'https://ecommerce-admin-xi-ruby.vercel.app/'
   },
   
   
