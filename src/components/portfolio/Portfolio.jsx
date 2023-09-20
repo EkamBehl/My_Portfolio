@@ -7,9 +7,9 @@ const data=[
   {
   id:1,
   image:img1,
-  title:'title',
-  github:'https://github.com',
-  demo:'https://github.com'
+  title:'E-Commerce Website',
+  github:'https://github.com/EkamBehl/ecommerce-store-1',
+  demo:'https://ecommerce-store-1-4ewrpcf09-ekambehl.vercel.app/'
   },
   {
     id:2,
