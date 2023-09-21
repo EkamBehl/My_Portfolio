@@ -9,7 +9,7 @@ const data=[
   {
   id:1,
   image:img4,
-  title:'E-Commerce Website',
+  title:'E-Commerce-Website',
   Description:"Typescript | Next.JS | Stripe | Prismadb",
   github:'https://github.com/EkamBehl/ecommerce-store-1',
   demo:'https://ecommerce-store-1-ashen.vercel.app/'
@@ -17,7 +17,7 @@ const data=[
   {
     id:2,
     image:img3,
-    title:'E-commerce-admin',
+    title:'E-Commerce-Admin',
     github:'https://github.com',
     Description:"Typescript | Next.JS | Stripe | Prismadb | Cloudinary ",
     demo:'https://ecommerce-admin-xi-ruby.vercel.app/'
