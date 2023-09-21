@@ -31,7 +31,7 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
      
-
+    <div className="container portfolio__container">
          
       {data.map(({id,image,title,Description,github,demo})=>{
         return(
@@ -56,7 +56,7 @@ const Portfolio = () => {
 
       })}
       
-     
+     </div>
     </section>
   )
 }
