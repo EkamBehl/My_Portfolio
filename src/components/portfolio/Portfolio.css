@@ -9,6 +9,12 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
 }
 .portfolio__item:hover{
     border-color: var(--color-primary);
