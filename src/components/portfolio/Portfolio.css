@@ -15,6 +15,7 @@
     margin: 10px;
     text-align: center;
     align-items: center;
+    margin-bottom:20px;
 }
 .portfolio__item:hover{
     border-color: var(--color-primary);
