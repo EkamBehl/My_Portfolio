@@ -12,7 +12,7 @@ const data=[
   title:'E-Commerce Website',
   Description:"Typescript | Next.JS | Stripe | Prismadb",
   github:'https://github.com/EkamBehl/ecommerce-store-1',
-  demo:'https://ecommerce-store-1-4ewrpcf09-ekambehl.vercel.app/'
+  demo:'https://ecommerce-store-1-ashen.vercel.app/'
   },
   {
     id:2,
