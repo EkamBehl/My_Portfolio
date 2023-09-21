@@ -8,7 +8,7 @@ import img3 from "../../Assets/admin.png"
 const data=[
   {
   id:1,
-  image:img1,
+  image:img3,
   title:'E-Commerce Website',
   Description:"Typescript | Next.JS | Stripe | Prismadb",
   github:'https://github.com/EkamBehl/ecommerce-store-1',
